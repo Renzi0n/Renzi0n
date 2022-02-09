@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A passionate Frontend developer from Russia</h3>
 
-- 🔭 Now I work in the **Digital Economy League**
+- 🔭 Now I work in the <a href="https://www.digitalleague.ru/">Digital League</a> 🇷🇺
 
 - 🌱 I’m currently learning **Node.js, Typescript**
 
