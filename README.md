@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-- 🔭 I’m currently working in the **Sravni.ru**
+- 🔭 I’m currently working in the **Propellerads**
 
 - 📫 How to reach me **https://t.me/renzi0n**
 
